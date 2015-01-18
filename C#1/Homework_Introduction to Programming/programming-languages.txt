@@ -1,0 +1,20 @@
+Some of the most popular programming languages are C, C++, C#, Java, PHP, Python,Visual Basic, Perl.
+
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+C# is a modern programming language, widespread, used by millions of developers worldwide. While C # is extremely simple
+and easy to learn language (in contrast to the C and C ++). It is considered that the only serious rival to C # is Java.
+
+In terms of popularity except C # and Java, PHP is very widely used language. It is suitable for developing small web sites and web applications, but creates serious difficulties in implementing large and complex software systems. In the software industry PHP is used mainly for small projects as conducive to writing bad unorganized and difficult maintenance code, so it is inconvenient for more serious projects.PHP has its application in the world of programming (eg Make a blog with WordPress, a small website with Joomla or Drupal or Discussion forum PhpBB), but the whole PHP platform is not well organized as .NET and Java. When it comes to non-web based applications or large industrial projects, PHP is not among the choices. 
+
+You can program in pure C if you need to write operating system driver for a hardware device or program controller (embedded device), due to lack of alternative because of the need to be managed very carefully. This language is obsolete and in any case not advise you to start learn programming with it. Programmer productivity in development of clean C is much lower than today programming languages in general as C # and Java. 
+
+C ++ is good when you need to program certain applications which require very close work with the hardware or have special
+performance requirements (eg development of 3D games). C ++ language lost its popularity mainly due to the inability
+to quickly develop quality software. To write in C ++, you must be very good and experienced programmer, while in C # and
+Java is not so necessary. 
+
+C # is an object-oriented programming language. These are modern languages which developed serious software systems
+The advantages of object-oriented programming (OOP) is that let you work with objects, like in the real world. Objects have characteristics and can perform actions.
+
+

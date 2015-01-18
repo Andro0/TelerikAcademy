@@ -1,0 +1,17 @@
+Popular development environments (IDEs) are #Develop, MonoDevelop, Oracle Netbeans, Eclipse, Code::Blocks, Aptana Studio
+
+#Develop Is an IDE for C # and is developed as open source software. It supports a large part of functionality of Visual Studio 2010, but runs under Linux and other operating systems.
+
+MonoDevelop is an integrated development environment software for .NET platform. It is completely free and can quickly and easily to write fully functional desktop and ASP.NET applications for Linux, Mac OSX and Windows. With it, developers can easily transfer projects created with Visual Studio, to the Mono platform and to make them fully functional under other platforms.
+
+Oracle Netbeans
+If you are more of a Java developer, Oracle's got your back with their Netbeans IDE. Of course, despite the fact that excellent Java support is its claim to fame going as far back as the Sun Microsystems days, other languages like C/C++, Ruby, HTML5, PHP and more are supported as well. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things. 
+
+Eclipse
+This IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture. However, Eclipse as an IDE comes in a wild variety of flavors, catering to various needs and objectives in software development workflows. The Eclipse Foundation even provides a comparison page to view the differences between the variants of Eclipse. 
+
+Code::Blocks
+Code::Blocks, which is built on the wxWidgets framework, is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. You can load up a number of under-the-hood compiler engines, ranging from GCC and LLVM, to Digital Mars and Open Watcom. Code::Blocks also takes advantage of multi-core compiling, allowing you to get the job done faster. 
+
+Aptana Studio
+If web and scripting languages are more of your style, Aptana is well suited for the task. PHP, Ruby on Rails, and Python are supported as well as the likes of Adobe AIR. Even the studio itself is available as a plugin for Eclipse if you prefer the way Aptana handles your work and want to combine it with a more comprehensive IDE. 

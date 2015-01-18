@@ -1,0 +1,9 @@
+C# is part of the .NET framework.
+Roughly .NET is a library of code that .NET languages like C#, Visual Basic, Visual C++, F# and other can talk to.
+.NET languages compile to CIL (Common Intermediate Language) which means they all start "talking" the same language and can therefore interoperate.
+
+Difference between library and framework
+
+A library contains many pieces of functionality that you may pick and choose from i.e. using one piece of technology doesn't mean you're locked into the rest. This means freedom, however you will have more work cut out for you.
+
+A framework however very much sets out how you will be working be providing a workflow that for better or worse is hard to change. This means rapid development/prototyping, but if significant changes are made in the future it may be impossible (or very time consuming) to implement them.
