@@ -1,4 +1,4 @@
-# TelerikAcademy
+﻿# TelerikAcademy
 
 Team NAGA
 
