@@ -1,0 +1,56 @@
+The TEXTAREA element defines a form control 
+for the user to enter multi-line text input. 
+While TEXTAREA is most useful within a FORM, 
+HTML 4 allows TEXTAREA in any block-level or 
+inline element other than BUTTON. However, N
+etscape 4.x will not display any TEXTAREA el
+ements outside of a FORM.
+
+The initial value of the TEXTAREA is provided as
+ the content of the element and must not contain
+ any HTML tags. When a form is submitted, the current value of any TEXTAREA element within 
+ the FORM is sent to the server as a name/val
+ ue pair. The TEXTAREA element's NAME attribute provides the name used.
+
+The
+ required ROWS and COLS attributes specify the n
+ umber of visible rows and columns, respectively, in a visual browser. These attributes provide a guide for the user rather than a rest
+ riction; browsers allow an unlimited amount 
+ of text input in theory, though in practice some browsers limit the content
+ s of a TEXTAREA to 32 or 64 kilobytes. Author re
+ strictions on the amount of data entered should be enforced by the server-side script handling the form.
+ 
+
+The boolean READONLY attribute, new in HTM
+L 4.0, prevents the user from editing the content of the TEXTAREA. Read-onl
+y elements are still submitted with the form. Th
+e DISABLED attribute, also new in HTML 4.0, disables the TEXTAREA. Disabled elements are read-only elements with the added restrictions t
+hat the values are not submitted with the fo
+rm, the elements cannot receive focus, and the elements are skipped when na
+vigating the document by tabbing.
+
+The ACCESSKEY
+ attribute specifies a single Unicode character as a shortcut key for giving focus to the TEXTAREA. Au
+ thors can set the access key on the TEXTAREA
+ element or the LABEL element associated with it. Entities (e.g. &eacute;) 
+ may be used as the ACCESSKEY value.
+
+The TABINDE
+X attribute specifies a number between 0 and 32767 to indicate the tabbing order of the element. A 
+TEXTAREA with TABINDEX=0 or no TABINDEX attr
+ibute will be visited after any elements with a positive TABINDEX. Among po
+sitive TABINDEX values, the lower number receive
+s focus first. In the case of a tie, the element appearing first in the HTML document takes precedence.
+
+
+The TEXTAREA element also takes a number o
+f attributes to specify client-side scripting actions for various events. I
+n addition to the core events common to most ele
+ments, TEXTAREA accepts the following event attributes:
+
+
+
+
+
+
+

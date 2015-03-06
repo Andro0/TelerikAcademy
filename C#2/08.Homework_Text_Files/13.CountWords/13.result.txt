@@ -1,0 +1,5 @@
+The word user is found 3 times
+The word display is found 1 times
+The word ammount is found 0 times
+The word and is found 6 times
+The word Pesho is found 4 times
