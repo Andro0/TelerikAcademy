@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring", "04.SemanticHTML\Refactoring.csproj", "{89334982-FD3C-4E05-8A79-DF3E9370F33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem", "StudentSystem\StudentSystem.csproj", "{C37A1645-B5AE-4C21-956A-46C4DD93BAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkedin", "Linkedin\Linkedin.csproj", "{0686F133-4A8B-415E-9B0E-0F53DA853904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89334982-FD3C-4E05-8A79-DF3E9370F33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89334982-FD3C-4E05-8A79-DF3E9370F33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89334982-FD3C-4E05-8A79-DF3E9370F33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89334982-FD3C-4E05-8A79-DF3E9370F33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37A1645-B5AE-4C21-956A-46C4DD93BAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37A1645-B5AE-4C21-956A-46C4DD93BAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37A1645-B5AE-4C21-956A-46C4DD93BAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37A1645-B5AE-4C21-956A-46C4DD93BAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0686F133-4A8B-415E-9B0E-0F53DA853904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0686F133-4A8B-415E-9B0E-0F53DA853904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0686F133-4A8B-415E-9B0E-0F53DA853904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0686F133-4A8B-415E-9B0E-0F53DA853904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
